@@ -9,3 +9,5 @@ The app is still in developement.
 # TODO
 
 Make it a PWA (If you are interested to work with me or have any suggestions, post an issue or contact me here : ayoubprogramming96@gmail.com).
+
+PS : The logo is AI-Generated.
