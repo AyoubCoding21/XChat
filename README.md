@@ -1,8 +1,11 @@
-# React + Vite
+# XChat
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+XChat is a React Application with Firebase that is a chat app.
 
-Currently, two official plugins are available:
+It is set up with a bad words filter and has a classy stylish look.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The app is still in developement.
+
+# TODO
+
+Make it a PWA (If you are interested to work with me or have any suggestions, post an issue or contact me here : ayoubprogramming96@gmail.com).
