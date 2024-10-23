@@ -10,13 +10,7 @@ import './App.css';
 import { FaGoogle, FaGithub } from 'react-icons/fa'; 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB4pkXKofc6WHdIEiZohn89cwOyVGEfYJA",
-  authDomain: "firechat-51faa.firebaseapp.com",
-  projectId: "firechat-51faa",
-  storageBucket: "firechat-51faa.appspot.com",
-  messagingSenderId: "605930976760",
-  appId: "1:605930976760:web:146654dfc1053ff256120d",
-  measurementId: "G-Y4D4CLWJTD"
+   // place ur config
 };
 
 // Firebase initialization
